@@ -144,7 +144,7 @@ The person who proved this was even possible.
 
 ### Rework, compatibility fixes & continued development
 
-**Mark**
+**ByMarkDev**
 
 Probably drinking too much coffee while reading Unreal logs.
 
