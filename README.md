@@ -1,4 +1,4 @@
-# 🐈 Stray Together
+# 🐈 Stray Together [WIP]
 
 > A community-driven continuation of KangieDanie's original split-screen prototype for Stray.
 
